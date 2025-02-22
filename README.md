@@ -51,15 +51,6 @@ Soy un apasionado desarrollador de software especializado en el desarrollo de ap
 
 ---
 
-## 📊 **Estadísticas de GitHub:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatancruzmail&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatancruzmail&theme=radical" alt="Racha de contribuciones">
-</p>
-
----
-
 ## 📫 **Cómo contactarme:**
 
 - ✉️ Email: [jhonatancruzmail@gmail.com](mailto:jhonatancruzmail@gmail.com)  
